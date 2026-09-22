@@ -1,0 +1,17 @@
+# Default ignored files
+# IntelliJ
+/shelf/
+/workspace.xml
+*.iml
+.idea
+out/
+*.jar
+
+#Python
+*.pyc
+.venv/
+.env
+
+#VsCode
+
+.vscode/settings.json
